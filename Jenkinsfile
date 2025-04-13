@@ -6,7 +6,7 @@ pipeline {
         DEPLOYMENT_NAME = 'survey-app'
         CONTAINER_NAME = 'container-0'
         NAMESPACE = 'default'
-        DOCKERHUB_CREDENTIALS = 'docker-creds'  // Jenkins credentials ID
+        DOCKERHUB_CREDENTIALS = 'dockerid'  // Jenkins credentials ID
     }
 
     stages {
