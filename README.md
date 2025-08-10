@@ -2,11 +2,11 @@
 
 # Spring Boot Survey App – AWS, Docker, Kubernetes, Jenkins
 
-##  Overview
+## Overview
 
 A cloud-native Spring Boot REST API for managing surveys, integrated with AWS RDS and deployed on AWS EC2 using Docker and Kubernetes (via Rancher). The application supports full CRUD operations and is automated with a Jenkins CI/CD pipeline.
 
-##  Features
+## Features
 
 * CRUD operations for survey management
 * AWS RDS MySQL backend
@@ -15,7 +15,7 @@ A cloud-native Spring Boot REST API for managing surveys, integrated with AWS RD
 * Automated build & deployment pipeline via Jenkins
 * Public API access over EC2 with Elastic IP
 
-##  Tech Stack
+## Tech Stack
 
 * **Backend:** Spring Boot (Java)
 * **Database:** AWS RDS (MySQL)
@@ -23,7 +23,7 @@ A cloud-native Spring Boot REST API for managing surveys, integrated with AWS RD
 * **DevOps:** Docker, Docker Hub, Jenkins
 * **Testing:** Postman
 
-##  References
+## References
 
 * [Git Docs](https://git-scm.com/doc)
 * [Docker Docs](https://docs.docker.com/get-started/)
